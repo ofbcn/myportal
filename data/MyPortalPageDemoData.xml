@@ -92,8 +92,10 @@
     <PortalPagePortlet portalPageId="MYPORTAL_EMPLOYEE1" portalPortletId="partyRelContacts" portletSeqId="00001" columnSeqId="00001" sequenceNum="1"/>
     <PortalPagePortlet portalPageId="MYPORTAL_EMPLOYEE1" portalPortletId="partyRelAccounts" portletSeqId="00001" columnSeqId="00001" sequenceNum="2"/>
     <PortalPagePortlet portalPageId="MYPORTAL_EMPLOYEE1" portalPortletId="contact" portletSeqId="00001" columnSeqId="00001" sequenceNum="3"/>
+    <!-- 
     <PortalPagePortlet portalPageId="MYPORTAL_EMPLOYEE1" portalPortletId="LoyaltyPoints" portletSeqId="00001" columnSeqId="00001" sequenceNum="4"/>
     <PortalPagePortlet portalPageId="MYPORTAL_EMPLOYEE1" portalPortletId="PaymentMethods" portletSeqId="00001" columnSeqId="00001" sequenceNum="5"/>
+     -->
     <PortalPagePortlet portalPageId="MYPORTAL_EMPLOYEE1" portalPortletId="AvsSettings" portletSeqId="00001" columnSeqId="00001" sequenceNum="6"/>
     <PortalPagePortlet portalPageId="MYPORTAL_EMPLOYEE1" portalPortletId="UserLogin" portletSeqId="00001" columnSeqId="00002" sequenceNum="1"/>
     <PortalPagePortlet portalPageId="MYPORTAL_EMPLOYEE1" portalPortletId="Attributes" portletSeqId="00001" columnSeqId="00002" sequenceNum="2"/>
