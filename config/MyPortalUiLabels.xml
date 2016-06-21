@@ -69,7 +69,7 @@
         <value xml:lang="ja">私の情報</value>
         <value xml:lang="th">ข้อมูลของฉัน</value>
         <value xml:lang="vi">Thông tin riêng</value>
-        <value xml:lang="zh">我的信息</value>
+        <value xml:lang="zh">我的门户</value>
         <value xml:lang="zh_TW">入口網站</value>
     </property>
     <property key="MyPortalLastNameMissing">
